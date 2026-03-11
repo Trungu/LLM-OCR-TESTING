@@ -2,6 +2,7 @@
 extracted_texts/
 images/
 pdf_images/
+.gitattributes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
